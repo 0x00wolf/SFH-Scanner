@@ -1,6 +1,6 @@
-#**SFH Network Scanner**
+#SFH Network Scanner
 
-###**Overview:**
+###Overview:
 
 I wrote this program as a solution to a question on an assigment for Digital Nova Scotia's Skills for Hire cybersecurity career training program. 
 
@@ -8,7 +8,7 @@ I wrote this program as a solution to a question on an assigment for Digital Nov
 This program is a wrapper for Scapy that emulates the input style and functionality of NMAP. I am in the process of programming a number of additional scanning modes (Null, XMAS, tcp half-open, etc.). As it stands, the wrapper is fully functional, and allows for NMAP like inputs from the user. Current modes support TCP port scanning and ICMP device detection.
 
 
-**###Usage:**
+###Usage:
 
 
 **To print the help menu:**
